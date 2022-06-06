@@ -1,15 +1,12 @@
 ## Hey <img src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width='23px' height='23px'>, I'm Pratik!
 
-<a href="https://www.linkedin.com/in/prxtikk/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/prxtikk/" target="_blank">
   <img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/Prxtikk" target="_blank" rel="noopener noreferrer">
+<a href="https://twitter.com/Prxtikk" target="_blank">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:pratikrgws1234@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://dev.to/prxtikk" target="_blank" rel="noopener noreferrer">
+<a href="https://dev.to/prxtikk" target="_blank">
   <img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>  
 
