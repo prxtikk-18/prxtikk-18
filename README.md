@@ -14,6 +14,5 @@
 
 ### About Me 🙌
 🎓 I am currently pursuing my bachelor's in Artificial Intelligence & Robotics. </br>
-👨‍💻  I am passionate about Web Dev, Machine Learning, & Exploring new things. </br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=prxtikk-18.prxtikk-18)
