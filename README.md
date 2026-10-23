@@ -3,16 +3,19 @@
 <a href="https://www.linkedin.com/in/prxtikk/" target="_blank">
   <img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/Prxtikk" target="_blank">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://www.salesforce.com/trailblazer/pratikraghuvanshi" target="_blank">
+  <img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/salesforce.svg"  />
 </a>
 <a href="https://dev.to/prxtikk" target="_blank">
   <img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>  
+</a>
 
 <br />
 
 ### About Me 🙌
-🎓 I am currently pursuing my bachelor's in Artificial Intelligence & Robotics. </br>
+3x Salesforce Certified Developer with 2+ Years of Experience. <br />
+• Salesforce Certified Platform Developer. [Link](https://drive.google.com/file/d/19Hy2XmM07viPLWghv75coqRoyP5gU9BZ/view?usp=sharing) <br />
+• Salesforce Certified Agentforce Specialist. [Link](https://drive.google.com/file/d/1rRzbypgfiQbYITJbVHJo2qlQr1RaQH7Y/view?usp=sharing) <br />
+• Salesforce Certified Omnistudio Developer. [Link](https://drive.google.com/file/d/1WE-buhIZhG9Aamnbf8w7q21jA39iFH-V/view?usp=sharing)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=prxtikk-18.prxtikk-18)
